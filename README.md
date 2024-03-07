@@ -1,7 +1,7 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
 <div align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="/Krishnabot/Krishnabot/blob/main/src/banner-img.png"><img src="/Krishnabot/Krishnabot/raw/main/src/banner-img.png" width="90%" alt="Banner Image" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images/picture-element-wide.png"><img src="/Krishnabot/Krishnabot/raw/main/src/banner-img.png" width="90%" alt="Banner Image" style="max-width: 100%;"></a>
  </div>
 
 <p align="center">
