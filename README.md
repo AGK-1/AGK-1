@@ -1,9 +1,8 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
-<div style="background-image: url('https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images/picture-element-wide.png'); background-size: cover; text-align: center; padding: 50px;">
-  <h1 style="color: yellow;">Project Title</h1>
-  <p style="color: red;">Brief project description goes here.</p>
-</div>
+<div align="center" dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="/Krishnabot/Krishnabot/blob/main/src/banner-img.png"><img src="/Krishnabot/Krishnabot/raw/main/src/banner-img.png" width="90%" alt="Banner Image" style="max-width: 100%;"></a>
+ </div>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
