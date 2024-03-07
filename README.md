@@ -1,6 +1,6 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
-<div style="background-image: url('background.jpg'); background-size: cover; text-align: center; padding: 50px;">
+<div style="background-image: url('https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images/picture-element-wide.png'); background-size: cover; text-align: center; padding: 50px;">
   <h1 style="color: yellow;">Project Title</h1>
   <p style="color: red;">Brief project description goes here.</p>
 </div>
