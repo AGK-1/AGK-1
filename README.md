@@ -9,7 +9,7 @@
   <img alt="Contributions WELCOME" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
   <img alt="WELCOME" src="https://img.shields.io/badge/programming-you_like-blue">
   <img alt="WELCOME" src="https://img.shields.io/badge/programming-you_like-yellow">
- 
+  <img alt="WELCOME" src="https://img.shields.io/badge/MINECRAFT-orrange">
 </p>
 
 
