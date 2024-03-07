@@ -1,5 +1,10 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
+<div style="background-image: url('background.jpg'); background-size: cover; text-align: center; padding: 50px;">
+  <h1 style="color: yellow;">Project Title</h1>
+  <p style="color: red;">Brief project description goes here.</p>
+</div>
+
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
   <img alt="Contributions WELCOME" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
