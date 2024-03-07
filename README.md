@@ -1,7 +1,7 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/example.jpg" alt="Banner Image">
+  <img src="https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images/picture-element-wide.png" alt="Banner Image">
 </p>
 
 <p align="center">
