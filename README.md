@@ -1,5 +1,10 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
