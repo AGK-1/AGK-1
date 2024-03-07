@@ -7,7 +7,7 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg">
   <img alt="Contributions WELCOME" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
-  <img alt="Contributions WELCOME" src="https://img.shields.io/badge">
+  <img alt="WELCOME" src="https://img.shields.io/badge/just-8A2BE2">
 </p>
 
 
