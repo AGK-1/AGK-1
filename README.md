@@ -1,7 +1,7 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/xPojEk0.jpeg" alt="Banner Image">
+  <img src="https://i.imgur.com/DLWuri8.jpeg" alt="Banner Image">
 </p>
 
 <p align="center">
