@@ -3,7 +3,8 @@
 <p align="left">
   <img src="https://i.imgur.com/DLWuri8.jpeg" alt="Banner Image">
   <img src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif" width="300px" alt="Banner Image">
-  <img src="https://i.imgur.com/2MF3FJC.gif" width="200px" alt="Banner Image">
+  <img src="https://i.imgur.com/2MF3FJC.gif" width="300px" alt="Banner Image">
+  <img src="https://i.imgur.com/kELhUyP.gif" width="200px" alt="Banner Image">
 </p>
 
 <p align="center">
