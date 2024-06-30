@@ -16,7 +16,7 @@
   <img alt="WELCOME" src="https://img.shields.io/badge/MINECRAFT-orange">
   <img alt="WELCOME" src="https://img.shields.io/badge/WOLF-red">
   <img alt="My_Lord" src="https://img.shields.io/badge/Hack-gray">
-  <img alt="My_Lord" src="https://img.shields.io/badge/88.1-#541E1B">
+  <img alt="My_Lord" src="https://img.shields.io/badge/88.1-garnet">
   <img alt="My_Lord" src="https://img.shields.io/badge/88.2-amazon">
   <img alt="My_Lord" src="https://img.shields.io/badge/CODE-brown">
   <img alt="My_Lord" src="https://img.shields.io/badge/[10011]-black">
