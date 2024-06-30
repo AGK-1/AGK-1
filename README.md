@@ -43,5 +43,5 @@
 </picture>
 
 <p align="center">
-  <img alt="Mygt" src="https://i.imgur.com/R5vmWLd.jpeg">
+  <img width="700px" alt="Mygt" src="https://i.imgur.com/R5vmWLd.jpeg">
 </p>
