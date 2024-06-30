@@ -22,6 +22,7 @@
   <img alt="My_Lord" src="https://img.shields.io/badge/[10011]-black">
   <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
   <img alt="My_Lord" src="https://img.shields.io/badge/国王-blue">
+  <img alt="My_Lord" src="https://img.shields.io/badge/ᚨᚷᚨᛚᚨᚱ-blue">
 </p>
 
 
