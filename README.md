@@ -18,6 +18,7 @@
   <img alt="My_Lord" src="https://img.shields.io/badge/Hack-gray">
   <img alt="My_Lord" src="https://img.shields.io/badge/88.1-violet">
   <img alt="My_Lord" src="https://img.shields.io/badge/88.2-magenta">
+  <img alt="My_Lord" src="https://img.shields.io/badge/CODE-brown">
   <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
 </p>
 
