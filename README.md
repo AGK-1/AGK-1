@@ -41,3 +41,7 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+<p align="center">
+  <img alt="Mygt" src="https://i.imgur.com/R5vmWLd.jpeg">
+</p>
