@@ -16,7 +16,7 @@
   <img alt="WELCOME" src="https://img.shields.io/badge/MINECRAFT-orange">
   <img alt="WELCOME" src="https://img.shields.io/badge/WOLF-red">
   <img alt="My_Lord" src="https://img.shields.io/badge/Hack-gray">
-  <img alt="My_Lord" src="https://img.shields.io/badge/88.1-flirt">
+  <img alt="My_Lord" src="https://img.shields.io/badge/88.1-violet">
   <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
 </p>
 
