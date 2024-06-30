@@ -44,8 +44,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 <p align="center">
   <img width="1200px" alt="Mygt" src="https://i.imgur.com/R5vmWLd.jpeg">
 </p>
