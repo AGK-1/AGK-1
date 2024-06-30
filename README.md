@@ -12,8 +12,9 @@
   <img alt="Contributions WELCOME" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
   <img alt="WELCOME" src="https://img.shields.io/badge/programming-you_like-blue">
   <img alt="WELCOME" src="https://img.shields.io/badge/programming-you_like-yellow">
-   <img alt="Hey I am here" src="https://img.shields.io/badge/programming-you_like-orange">
+  <img alt="Hey I am here" src="https://img.shields.io/badge/programming-you_like-orange">
   <img alt="WELCOME" src="https://img.shields.io/badge/MINECRAFT-orange">
+  <img alt="WELCOME" src="https://img.shields.io/badge/MINECRAFT-red">
   <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg">
 </p>
 
