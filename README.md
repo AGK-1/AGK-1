@@ -1,7 +1,7 @@
 <h3 align="center">DIGITAL DEVELOPER</h3>
 
 <p align="left">
-  <img src="https://media.licdn.com/dms/image/C5612AQEz-Rr0H_VEZQ/article-cover_image-shrink_600_2000/0/1562161241824?e=2147483647&v=beta&t=VD_G2-AHhraY_enIAZbunr2dWQeOpaiq7ek3bLv6qhg" alt="Banner Image">
+  <img src="https://media.licdn.com/dms/image/C5612AQEz-Rr0H_VEZQ/article-cover_image-shrink_600_2000/0/1562161241824?e=2147483647&v=beta&t=VD_G2-AHhraY_enIAZbunr2dWQeOpaiq7ek3bLv6qhg" width="1000" height="200" alt="Banner Image">
   <img src="https://i.pinimg.com/originals/7d/06/89/7d068990a6d0fa0b99d8ca96afde86dc.gif" width="300px" alt="Banner Image">
   <img src="https://i.imgur.com/2MF3FJC.gif" width="300px" alt="Banner Image">
   <img src="https://i.imgur.com/kELhUyP.gif" width="200px" alt="Banner Image">
